@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "proveedor_id": 1,
+    "producto_id": 5,
+    "cantidad": 2,
+    "costo_unitario": 17.0,
+    "fecha": "2026-10-15"
+  },
+  {
+    "id": 4,
+    "proveedor_id": 1,
+    "producto_id": 5,
+    "cantidad": 2,
+    "costo_unitario": 15.0,
+    "fecha": "2026-10-15"
+  },
+  {
+    "id": 5,
+    "proveedor_id": 1,
+    "producto_id": 5,
+    "cantidad": 1,
+    "costo_unitario": 13.0,
+    "fecha": "2026-10-15"
+  }
+]
